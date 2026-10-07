@@ -41,7 +41,7 @@ You can run with only one of them installed. The other AI will just return an er
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/trio-chat.git
+git clone https://github.com/Anton-Pazynych/trio-chat.git
 cd trio-chat
 python trio_chat.py
 ```
