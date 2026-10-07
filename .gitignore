@@ -1,0 +1,14 @@
+# personal data
+chats.json
+defaults.json
+*.broken.json
+*.tmp
+
+# runtime
+sandbox_cwd/
+agy_models_raw.txt
+__pycache__/
+*.log
+
+# old manual backups (use git history instead)
+*_backup.py
